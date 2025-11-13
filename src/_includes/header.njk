@@ -1,6 +1,6 @@
-<div class='header'>
+<div class='header' role="banner">
   <a class="header-logo" href="/">{{ site.title }}</a>
-  <div class="menu-main">
+  <div class="menu-main" role="navigation">
     <ul>
       {% for item in navigation.main %}
       <li class="menu-item-{{ item.name | lower }} {% if page.url == item.url %}active{% endif %}">

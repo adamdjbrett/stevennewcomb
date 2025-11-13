@@ -5,6 +5,9 @@ description: "Academic Writings by Steven T. Newcomb"
 tags:
   academic
 ---
+You can connect with Steven T. Newcomb and view many of these publications on his [researchgate](https://www.researchgate.net/profile/Steven-Newcomb-2) and [academia.edu](https://independent.academia.edu/StevenTNewcomb)
+
+## Selected
 Arnold, Philip P, and Sandra Bigtree. 2022. "S1E02 - The Doctrine Of Christian Discovery As An Ideological And Legal Framework with Steven T. Newcomb." Mapping the Doctrine of Discovery Podcast, June 12. <https://podcast.doctrineofdiscovery.org/season1/episode-02/>.
 
 Arnold, Philip P, and Sandra L Bigtree. 2023. "S01E02: The Doctrine Of Christian Discovery As An Ideological And Legal Framework with Steven T. Newcomb." *Podcast. Mapping the Doctrine of Discovery*.
@@ -50,3 +53,5 @@ Straight, Birgil Kills, and Steven T Newcomb. 2024. "Indigenous Law Institute: A
 Swim, Where Red Fish Still, Ko Rangi, Steven T Newcomb, et al. n.d. *Law, Culture & Resistance*.
 
 Wolfchild, Sheldon P., dir. 2015. *The Doctrine of Discovery: Unmasking the Domination Code*. Documentary. Produced by Steven T. Newcomb and Sheldon P. Wolfchild. 38 Plus 2 Productions. Streaming, 01:02:04. <https://vimeo.com/ondemand/dominationcode>.
+
+[Download Citations as a .RIS File](/newcomb.ris) or as [csl.json](/newcomb.csl.json)

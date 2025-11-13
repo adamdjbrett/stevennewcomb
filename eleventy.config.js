@@ -8,6 +8,7 @@ import markdownItAnchor from "markdown-it-anchor";
 import * as sass from "sass";
 import { readFileSync } from "fs";
 import path from "path";
+import htmlmin from "html-minifier-terser";
 
 export default function(eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
@@ -63,7 +64,9 @@ export default function(eleventyConfig) {
           siteData.dotColor || '#7b16ff');
 
       let result = sass.compileString(processedContent, {
-        loadPaths: [parsed.dir || ".", "src/scss"]
+        loadPaths: [parsed.dir || ".", "src/scss"],
+        // Compress CSS in production builds
+        style: process.env.ELEVENTY_RUN_MODE === "build" ? "compressed" : "expanded"
       });
 
       return async () => {
@@ -130,6 +133,32 @@ export default function(eleventyConfig) {
   });
 
   eleventyConfig.setLibrary("md", markdownLibrary);
+
+  // HTML minification transform (production only)
+  eleventyConfig.addTransform("htmlmin", function(content) {
+    if (this.page.outputPath && this.page.outputPath.endsWith(".html")) {
+      // Only minify in production builds
+      if (process.env.ELEVENTY_RUN_MODE === "build") {
+        try {
+          return htmlmin.minify(content, {
+            useShortDoctype: true,
+            removeComments: true,
+            collapseWhitespace: true,
+            minifyCSS: true,
+            minifyJS: true,
+            // Preserve JSON-LD and other structured data scripts
+            ignoreCustomFragments: [
+              /<script\s+type="application\/ld\+json"[\s\S]*?<\/script>/gi
+            ]
+          });
+        } catch (error) {
+          console.error(`[htmlmin] Error minifying ${this.page.outputPath}:`, error.message);
+          return content;
+        }
+      }
+    }
+    return content;
+  });
 
   return {
     dir: {

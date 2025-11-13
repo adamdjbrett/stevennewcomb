@@ -28,11 +28,11 @@
 
   {% if site.enableGoogleFonts %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="{{ site.googleFontsUrl }}" rel="stylesheet">
+    <link href="{{ site.googleFontsUrl }}" rel="stylesheet" preconnect>
   {% endif %}
 </head>
 
-<body class='page{% if site.addFrame %} frame{% endif %} {% block body_classes %}{% endblock %}'>
+<body class='page{% if site.addFrame %} frame{% endif %} {% block body_classes %}{% endblock %}' role="document">
   {% include "mobile-menu.njk" %}
   <div id="wrapper" class="wrapper">
     {% include "header.njk" %}
