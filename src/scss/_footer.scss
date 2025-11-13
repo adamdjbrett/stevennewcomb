@@ -1,0 +1,14 @@
+.footer {
+  margin-top: 5px;
+  @include breakpoint('small') {
+    padding-top: 30px;
+  }
+}
+
+.footer-social {
+  display: flex;
+  gap: 10px;
+  align-items: left;
+  justify-content: flex-start;
+  margin-top: 20px;
+}
