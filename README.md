@@ -1,5 +1,5 @@
 # CHANGELOG
-1. UPDATE @zerostaticio 
+1. UPDATE @originally_free 
 2. Update ```social.json```
 
 # Hugo Winston Theme
@@ -95,7 +95,7 @@ hugo server --source=exampleSite --theme=../..
 # config.toml
 [params]
   google_analytics_id = ""
-  twitter_handle = "@zerostaticio"
+  twitter_handle = "@originally_free"
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
   showIntroContentOnHomepage = true
