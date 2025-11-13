@@ -1,0 +1,37 @@
+---
+pagination:
+  data: collections.tagList
+  size: 1
+  alias: tag
+permalink: /tags/{{ tag | slugify }}/
+---
+{% extends "base.njk" %}
+
+{% block body_classes %}page-tags-single{% endblock %}
+
+{% block main %}
+<div class="intro">
+  <h1>Tagged "{{ tag }}"{% if site.addDot %}<span class="dot">.</span>{% endif %}</h1>
+</div>
+
+<div class="content">
+  {% for post in collections.posts | reverse %}
+    {% if tag in post.data.tags %}
+    <div class="summary">
+      {% if site.showAuthorOnPosts %}
+        <div class="author">
+          <img width="30" class="author-image" src="{{ author.image }}" alt="{{ author.name }}" />
+          <span class="author-name">{{ author.name }}</span>
+          <span class="author-divider"></span>
+          <span class="author-date">{{ post.date | readableDate }}</span>
+        </div>
+      {% else %}
+        <div class="summary-date">{{ post.date | readableDate }}</div>
+      {% endif %}
+      <h2 class="summary-title"><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+      <p class="summary-description">{{ post.data.description }}</p>
+    </div>
+    {% endif %}
+  {% endfor %}
+</div>
+{% endblock %}
