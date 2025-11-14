@@ -37,8 +37,10 @@
   {% include "mobile-menu.njk" %}
   <div id="wrapper" class="wrapper">
     {% include "header.njk" %}
+    <main role="main">
     {% block main %}
     {% endblock %}
+    </main>
     <!-- outputs all the icons used on the page -->
     {% getBundle "fontawesome" %}
     {% include "footer.njk" %}
