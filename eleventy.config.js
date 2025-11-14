@@ -45,8 +45,8 @@ export default function(eleventyConfig) {
 
       // Replace Hugo template syntax with actual values
       let processedContent = inputContent
-        .replace(/\{\{ \.Site\.Params\.fontFamilyHeading \| default "'Poppins', sans-serif" \}\}/g, 
-          `'${siteData.fontFamilyHeading || 'Poppins'}', sans-serif`)
+        .replace(/\{\{ \.Site\.Params\.fontFamilyHeading \| default "'Arial Black, Gadget, sans-serif'" \}\}/g, 
+          `'${siteData.fontFamilyHeading || 'Arial Black, Gadget, sans-serif'}'`)
         .replace(/\{\{ \.Site\.Params\.fontFamilyParagraph \| default "'Helvetica', sans-serif" \}\}/g, 
           `'${siteData.fontFamilyParagraph || 'Helvetica'}', sans-serif`)
         .replace(/\{\{ \.Site\.Params\.fontFamilyMonospace \| default "monospace" \}\}/g, 
@@ -124,8 +124,8 @@ export default function(eleventyConfig) {
 
       // Replace Hugo template syntax with actual values
       let processedContent = scssContent
-        .replace(/\{\{ \.Site\.Params\.fontFamilyHeading \| default "'Poppins', sans-serif" \}\}/g, 
-          `'${siteData.fontFamilyHeading || 'Poppins'}', sans-serif`)
+        .replace(/\{\{ \.Site\.Params\.fontFamilyHeading \| default "'Arial Black', sans-serif" \}\}/g, 
+          `'${siteData.fontFamilyHeading || 'Arial Black'}', sans-serif`)
         .replace(/\{\{ \.Site\.Params\.fontFamilyParagraph \| default "'Helvetica', sans-serif" \}\}/g, 
           `'${siteData.fontFamilyParagraph || 'Helvetica'}', sans-serif`)
         .replace(/\{\{ \.Site\.Params\.fontFamilyMonospace \| default "monospace" \}\}/g, 

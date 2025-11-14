@@ -1,6 +1,6 @@
 # CHANGELOG
-1. UPDATE @originally_free 
-2. Update ```social.json```
+1. Removed Poppins Google fonts it was sooo slow
+![Lighthouse score of all 100%](image.png)
 
 # Hugo Winston Theme
 
