@@ -9,6 +9,7 @@ import * as sass from "sass";
 import { readFileSync } from "fs";
 import path from "path";
 import htmlmin from "html-minifier-terser";
+import CleanCSS from "clean-css";
 
 export default function(eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
@@ -100,6 +101,59 @@ export default function(eleventyConfig) {
 
   eleventyConfig.addFilter("limit", (array, limit) => {
     return array.slice(0, limit);
+  });
+
+  eleventyConfig.addFilter("cssmin", function(code) {
+    return new CleanCSS({}).minify(code).styles;
+  });
+
+  // Shortcode to compile and inline SCSS
+  eleventyConfig.addShortcode("inlineCSS", function() {
+    try {
+      // Read the main SCSS file
+      const scssContent = readFileSync("src/scss/style.scss", "utf8");
+      
+      // Read site config for CSS variables
+      let siteData = {};
+      try {
+        const siteJson = readFileSync("src/_data/site.json", "utf8");
+        siteData = JSON.parse(siteJson);
+      } catch (e) {
+        siteData = {};
+      }
+
+      // Replace Hugo template syntax with actual values
+      let processedContent = scssContent
+        .replace(/\{\{ \.Site\.Params\.fontFamilyHeading \| default "'Poppins', sans-serif" \}\}/g, 
+          `'${siteData.fontFamilyHeading || 'Poppins'}', sans-serif`)
+        .replace(/\{\{ \.Site\.Params\.fontFamilyParagraph \| default "'Helvetica', sans-serif" \}\}/g, 
+          `'${siteData.fontFamilyParagraph || 'Helvetica'}', sans-serif`)
+        .replace(/\{\{ \.Site\.Params\.fontFamilyMonospace \| default "monospace" \}\}/g, 
+          `'${siteData.fontFamilyMonospace || 'monospace'}'`)
+        .replace(/\{\{ \.Site\.Params\.baseColor \| default "#ffffff" \}\}/g, 
+          siteData.baseColor || '#ffffff')
+        .replace(/\{\{ \.Site\.Params\.baseOffsetColor \| default "#eaeaea" \}\}/g, 
+          siteData.baseOffsetColor || '#eaeaea')
+        .replace(/\{\{ \.Site\.Params\.highlightColor \| default "#7b16ff" \}\}/g, 
+          siteData.highlightColor || '#7b16ff')
+        .replace(/\{\{ \.Site\.Params\.headingColor \| default "#1c1b1d" \}\}/g, 
+          siteData.headingColor || '#1c1b1d')
+        .replace(/\{\{ \.Site\.Params\.textColor \| default "#4e5157" \}\}/g, 
+          siteData.textColor || '#4e5157')
+        .replace(/\{\{ \.Site\.Params\.dotColor \| default "#7b16ff" \}\}/g, 
+          siteData.dotColor || '#7b16ff');
+
+      // Compile SCSS to CSS
+      const result = sass.compileString(processedContent, {
+        loadPaths: ["src/scss"],
+        style: "compressed"
+      });
+
+      return result.css;
+    } catch (error) {
+      console.error("Error compiling inline CSS:", error);
+      return "";
+    }
   });
 
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
