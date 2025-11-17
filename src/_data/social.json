@@ -14,6 +14,11 @@
       "name": "facebook",
       "url": "https://www.facebook.com/steventnewcomb1/",
       "icon": "fa-brands fa-square-facebook  fa-2xs"
+    },
+    {
+      "name": "RSS Feed",
+      "url": "https://www.stevennewcomb.com/feed/feed.xml",
+      "icon": "fa-solid fa-rss fa-2xs"
     }
   ]
 }
