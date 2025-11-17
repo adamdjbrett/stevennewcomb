@@ -16,6 +16,11 @@
       "icon": "fa-brands fa-square-facebook  fa-2xs"
     },
     {
+      "name": "vimeo",
+      "url": "https://vimeo.com/ondemand/dominationcode",
+      "icon": "fa-brands fa-vimeo  fa-2xs"
+    },
+    {
       "name": "RSS Feed",
       "url": "https://www.stevennewcomb.com/feed/feed.xml",
       "icon": "fa-solid fa-rss fa-2xs"
