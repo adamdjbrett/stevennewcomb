@@ -3,15 +3,23 @@ permalink: /sitemap.xml
 layout: false
 eleventyExcludeFromCollections: true
 ---
-<?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 {%- for page in collections.all %}
 {% if '/scss/' not in page.url %}
 	{% set absoluteUrl %}{{ page.url | htmlBaseUrl(site.url) }}{% endset %}
 	<url>
 		<loc>{{ absoluteUrl }}</loc>
-		<lastmod>{{ page.date | htmlDateString }}</lastmod>
-    <priority>0.7</priority>
+		<lastmod>{{ page.date.toISOString() }}</lastmod>
+		{% if page.url == '/posts/' or '/posts/' in page.url or page.url == '/tags/' or '/tags/' in page.url %}
+			<priority>0.64</priority>
+		{% else %}
+			<priority>1.00</priority>
+		{% endif %}
 	</url>
 {%- endfor %}
 </urlset>
