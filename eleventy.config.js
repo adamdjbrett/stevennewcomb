@@ -16,6 +16,10 @@ export default function(eleventyConfig) {
   eleventyConfig.addPlugin(fontAwesomePlugin);
 
   eleventyConfig.addPassthroughCopy("src/images");
+  // Ensure favicon is available at site root
+  eleventyConfig.addPassthroughCopy({
+    "src/images/favicon/favicon.ico": "/favicon.ico"
+  });
   eleventyConfig.addPassthroughCopy("src/favicon.png");
   eleventyConfig.addPassthroughCopy("src/js");
   // Feed XSL passthrough
