@@ -20,7 +20,7 @@ Newcomb, Steven T. 1992a. "500 Years of Injustice: The Legacy of Fifteenth Centu
 
 Newcomb, Steven T. 1992b. "The Evidence of Christian Nationalism in Federal Indian Law: The Doctrine of Discovery, Johnson v. McIntosh, and Plenary Power." *NYU Rev. L. & Soc. Change* 20 (2): 303--41.
 
-Newcomb, Steven T. 1995. "Perspectives: Healing, Restoration, and Rematriation." *News & Notes*. <http://ili.nativeweb.org/perspect.html>.
+Newcomb, Steven T. 1995. "Perspectives: Healing, Restoration, and Rematriation." *News & Notes*. <https://indigenouslawinstitute.com/perspect.html>.
 
 Newcomb, Steven T. 2005. "On the Rightful Political Heritage of Native Nations." *Indigenous Peoples' JL Culture & Resistance* 2: 1.
 
@@ -48,7 +48,7 @@ Newcomb, Steven T. n.d. "The Evidence of Christian Nationalism in Federal Indian
 
 Randall, Mitch, and Tanner Randall. n.d. *Steven Newcomb & JoDe Goudy: U.S. Law*. Episode 05. With guest Steven T. Newcomb and JoDe Goudy. Doctrine of Christian Discovery. MP3, 43:00. Accessed August 15, 2024. <https://megaphone.link/AOOOI7101202412>.
 
-Straight, Birgil Kills, and Steven T Newcomb. 2024. "Indigenous Law Institute: A Movement Toward Restoration and Healing." Native Web. <http://ili.nativeweb.org/>.
+Straight, Birgil Kills, and Steven T Newcomb. 2024. "Indigenous Law Institute: A Movement Toward Restoration and Healing." Native Web. <https://indigenouslawinstitute.com/>.
 
 Swim, Where Red Fish Still, Ko Rangi, Steven T Newcomb, et al. n.d. *Law, Culture & Resistance*.
 
