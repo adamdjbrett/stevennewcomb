@@ -7,221 +7,161 @@ imageAltAttribute: ICT News
 tags:
   news
 ---
-## Indian Country Today Slected Archive
-- [On Indian Nationhood: Steven Newcomb Responds to Steve Russell’s March 20 Column by Steven Newcomb March 23, 2012](https://ictnews.org/archive/on-indian-nationhood-steven-newcomb-responds-to-steve-russells-march-20-column/)
-- [Newcomb: Looking back on a movement by Steven Newcomb December 24, 2009](https://ictnews.org/archive/newcomb-looking-back-on-a-movement/)
-- [‘The Secret’ philosophy is nothing new by Steven Newcomb March 16, 2007](https://ictnews.org/archive/newcomb-the-secret-philosophy-is-nothing-new/)
-- [In honor of Tecumseh by Steven Newcomb October 20, 2003](https://ictnews.org/archive/newcomb-in-honor-of-tecumseh/)
-- [The Domination Translator by Steven Newcomb March 18, 2015](https://ictnews.org/archive/the-domination-translator/)
-- [ The Biblical basis of federal Indian law & policy by Steven Newcomb April 14, 2003](https://ictnews.org/archive/newcomb-the-biblical-basis-of-federal-indian-law-policy/)
-- [Newcomb: What is meant when we say Promised Land by Steven Newcomb April 11, 2008](https://ictnews.org/archive/newcomb-what-is-meant-when-we-say-promised-land/)
-- [From an Original Free Existence to an ‘Indigenous’ Existence by Steven Newcomb April 22, 2014](https://ictnews.org/archive/from-an-original-free-existence-to-an-indigenous-existence/)
-- [Newcomb: Indigenous knowledge and our planetary crisis by Steven Newcomb March 28, 2008](https://ictnews.org/archive/newcomb-indigenous-knowledge-and-our-planetary-crisis-2/)
-- [The Western Shoshone fight on by Steven Newcomb June 1, 2002](https://ictnews.org/archive/the-western-shoshone-fight-on/)
-- [A 1993 Open Letter to Pope John Paul II by Steven Newcomb October 18, 2012](https://ictnews.org/archive/a-1993-open-letter-to-pope-john-paul-ii/)
-- [Newcomb: Review of 'Unlearning the Language of Conquest'](https://ictnews.org/archive/newcomb-review-of-unlearning-the-language-of-conquest/)
-- [Newcomb: Colonialism and the human rights of indigenous](https://ictnews.org/archive/newcomb-colonialism-and-the-human-rights-of-indigenous-peoples/)
-- [Newcomb: The right of Christian invasion](https://ictnews.org/archive/newcomb-the-right-of-christian-invasion/)
-- [Newcomb: Justifying a legacy of dehumanization](https://ictnews.org/archive/newcomb-justifying-a-legacy-of-dehumanization/)
-- [Newcomb: The Doctrine of Discovery](https://ictnews.org/archive/newcomb-the-doctrine-of-discovery/)
-- [Newcomb: Pretension as the rule of U.S. Indian Law](https://ictnews.org/archive/newcomb-pretension-as-the-rule-of-us-indian-law/)
-- [Life Is a State of Mind](https://ictnews.org/archive/life-is-a-state-of-mind/)
-- [Newcomb: Toward a doctrine of American Indian independence](https://ictnews.org/archive/newcomb-toward-a-doctrine-of-american-indian-independence/)
-- [Newcomb: A look back at Lincoln](https://ictnews.org/archive/newcomb-a-look-back-at-lincoln/)
-- [Newcomb: The plot thickens in the Western Shoshone saga](https://ictnews.org/archive/newcomb-the-plot-thickens-in-the-western-shoshone-saga/)
-- [On the Papal Bull, 'Sublimis Deus'](https://ictnews.org/archive/on-the-papal-bull-sublimis-deus/)
-- [Newcomb: Papal statement suggests Crusades were 'contrary ...](https://ictnews.org/archive/newcomb-papal-statement-suggests-crusades-were-contrary-to-gods-nature/)
-- [What Shall We Do? Decolonize U.S. Federal Indian Law](https://ictnews.org/archive/what-shall-we-do-decolonize-us-federal-indian-law/)
-- [Newcomb: The Holy See's response misses the point](https://ictnews.org/archive/newcomb-the-holy-sees-response-misses-the-point/)
-- [Newcomb: The storytelling tradition of the Supreme Court](https://ictnews.org/archive/newcomb-the-storytelling-tradition-of-the-supreme-court-2/)
-- [Newcomb: The sacred birthright of indigenous peoples](https://ictnews.org/archive/newcomb-the-sacred-birthright-of-indigenous-peoples/)
-- [John Collier and Indigenous Peoples' Contributions to the World](https://ictnews.org/archive/john-collier-and-indigenous-peoples-contributions-to-the-world/)
-- [Newcomb: The Cherokee Nation's contradictory stance](https://ictnews.org/archive/newcomb-the-cherokee-nations-contradictory-stance/)
-- [Leadership and the Liberation of Our Original Nations](https://ictnews.org/archive/leadership-and-the-liberation-of-our-original-nations/)
-- [Why 'Conquest' Is Considered Acceptable and 'Domination' Is ...](https://ictnews.org/archive/conquest-considered-acceptable-domination-not/)
-- [The Bogus Religious Premise of the Indian Claims Commission](https://ictnews.org/archive/the-bogus-religious-premise-of-the-indian-claims-commission/)
-- [Newcomb: Anti-Indian rhetoric in the 21st century](https://ictnews.org/archive/newcomb-anti-indian-rhetoric-in-the-21st-century/)
-- [Newcomb: An open letter to Congressman Tom Delay](https://ictnews.org/archive/newcomb-an-open-letter-to-congressman-tom-delay/)
-- [Newcomb: Observations on U.S. v. Lara](https://ictnews.org/archive/newcomb-observations-on-us-v-lara/)
-- [Newcomb: What would Vine Deloria say?](https://ictnews.org/archive/newcomb-what-would-vine-deloria-say/)
-- [Newcomb: A deadly clash of worldviews in Peru](https://ictnews.org/archive/newcomb-a-deadly-clash-of-worldviews-in-peru/)
-- [Christian Dominionism at the Root of U.S. Federal Indian Law](https://ictnews.org/archive/christian-dominionism-at-the-root-of-us-federal-indian-law-2/)
-- [Newcomb: Joseph Story and the 'right of discovery'](https://ictnews.org/archive/newcomb-joseph-story-and-the-right-of-discovery/)
-- [Newcomb: In honor of a spiritual man: Corbin Harney](https://ictnews.org/archive/newcomb-in-honor-of-a-spiritual-man-corbin-harney/)
-- [Our Originally Free and Unbaptized Existence](https://ictnews.org/archive/our-originally-free-and-unbaptized-existence/)
-- [Decoding the Doctrine of Christian Discovery](https://ictnews.org/archive/decoding-the-doctrine-of-christian-discovery-wolfchildnewcomb-documentary-screens-in-nyc/)
-- [Newcomb: American Zionism](https://ictnews.org/archive/newcomb-american-zionism-2/)
-- [Newcomb: A new book for 2008: 'Pagans in the Promised Land'](https://ictnews.org/archive/newcomb-a-new-book-for-2008-pagans-in-the-promised-land-2/)
-- ['The Indians of California' Through the Eyes of an Irishman in ...](https://ictnews.org/archive/indians-california-eyes-irishman-mid-1800s/)
-- ['Far from Civilized and Scarcely Human'](https://ictnews.org/archive/far-from-civilized-and-scarcely-human/)
-- [Newcomb: Johnson v. M'Intosh: The Christian right of Colonization](https://ictnews.org/archive/newcomb-johnson-v-mintosh-the-christian-right-of-colonization/)
-- [U. S. Anti-Indian Law: A Question of Legitimacy](https://ictnews.org/archive/u-s-anti-indian-law-a-question-of-legitimacy/)
-- ['Unmasking the Domination Code' Documentary Elicits Gasps ...](https://ictnews.org/archive/unmasking-the-domination-code-documentary-elicits-gasps-applause/)
-- [Metaphors and the Indian Claims Commission](https://ictnews.org/archive/metaphors-and-the-indian-claims-commission/)
-- [Newcomb: The Akaka Bill falls short](https://ictnews.org/archive/newcomb-the-akaka-bill-falls-short/)
-- [A Speech to the Parliament of the World's Religions](https://ictnews.org/archive/a-speech-to-the-parliament-of-the-worlds-religions/)
-- [Newcomb: Predators threaten Western Shoshone sacred ...](https://ictnews.org/archive/newcomb-predators-threaten-western-shoshone-sacred-mountain/)
-- [Newcomb: Indigenous summit: 'Our world is not for sale'](https://ictnews.org/archive/newcomb-indigenous-summit-our-world-is-not-for-sale/)
-- [The Holy See's Whopper of a Falsehood at the UN](https://ictnews.org/archive/the-holy-sees-whopper-of-a-falsehood-at-the-un/)
-- ['To Serve Indigenous Peoples'](https://ictnews.org/archive/to-serve-indigenous-peoples/)
-- [Newcomb: Senator Reid and the Western Shoshone Indians](https://ictnews.org/archive/newcomb-senator-reid-and-the-western-shoshone-indians/)
-- [No Plenary Power Over Indian Nations](https://ictnews.org/archive/no-plenary-power-over-indian-nations/)
-- [Newcomb: Congressional hearing on Western Shoshone ...](https://ictnews.org/archive/newcomb-congressional-hearing-on-western-shoshone-lands-faces-unresolved-questions/)
-- [Newcomb: Northern ;Discovery' in action](https://ictnews.org/archive/newcomb-northern-discovery-in-action/)
-- [Toward a Future of Colonial Freedom](https://ictnews.org/archive/toward-a-future-of-colonial-freedom/)
-- [Christianity with a small 'c'](https://ictnews.org/archive/christianity-with-a-small-c/)
-- [U.S. Federal Indian Law and Policy and U.S. Double ...](https://ictnews.org/archive/us-federal-indian-law-and-policy-and-us-double-government/)
-- [Coyote and the 'doctrine of discovery'](https://ictnews.org/archive/coyote-and-the-doctrine-of-discovery/)
-- [Indigenous Sovereignty and the Political Subordination of Our...](https://ictnews.org/archive/indigenous-sovereignty-political-subordination-nations/)
-- [Domination: The Hidden Code Used Against Our Nations](https://ictnews.org/archive/domination-hidden-code-used-nations/)
-- [Government: An Expression of Domination](https://ictnews.org/archive/government-an-expression-of-domination/)
-- [International Law and the Principle of Free Consent](https://ictnews.org/archive/international-law-and-the-principle-of-free-consent/)
-- [Revitalizing the Kumeyaay language](https://ictnews.org/archive/revitalizing-the-kumeyaay-language/)
-- [Next Step: Implementation](https://ictnews.org/archive/next-step-implementation/)
-- [Unitarian congregation repudiates Doctrine of Discovery](https://ictnews.org/archive/unitarian-congregation-repudiates-doctrine-of-discovery/)
-- [The Alta Outcome Document and the Issue of Interpretation](https://ictnews.org/archive/the-alta-outcome-document-and-the-issue-of-interpretation/)
-- [Perspectives on Self-Determination: A Response to ...](https://ictnews.org/archive/perspectives-on-self-determination-a-response-to-champagne-newcomb-wilkins/)
-- [Let's Stay Focused on Self-Determination for Our Nations](https://ictnews.org/archive/lets-stay-focused-on-self-determination-for-our-nations/)
-- [Johnson v. M'Intosh: A Paper Monument of White Christian ...](https://ictnews.org/archive/johnson-v-mintosh-paper-monument-white-christian-supremacy/)
-- [Paul Gilk's Picking Fights with the Gods: A Book Review](https://ictnews.org/archive/paul-gilks-picking-fights-gods-book-review/)
-- [Dehumanization and a Deadly Medical Experiment on the ...](https://ictnews.org/archive/dehumanization-and-a-deadly-medical-experiment-on-the-yanomami-people/)
-- [On Replacing Columbus Day With Dominated Peoples Day](https://ictnews.org/archive/on-replacing-columbus-day-with-dominated-peoples-day/)
-- [The Quinault Nation and the Claimed Right of Domination](https://ictnews.org/archive/the-quinault-nation-and-the-claimed-right-of-domination/)
-- [Striving for Intellectual Curiosity and Historical Precision in ...](https://ictnews.org/archive/striving-for-intellectual-curiosity-and-historical-precision-in-indian-law/)
-- [The City of True Peace---and Euphemisms](https://ictnews.org/archive/the-city-of-true-peaceand-euphemisms/)
-- [US Calls on UN to Accord Recognition to 'US Federally ...](https://ictnews.org/archive/us-calls-on-un-to-accord-recognition-to-us-federally-recognized-tribes/)
-- [The Poet Activist's Final Journey: John Trudell Walks On](https://ictnews.org/archive/the-poet-activists-final-journey-john-trudell-walks-on/)
-- [On Sen. Barrasso's Column, 'Getting Washington Out of Indian ...](https://ictnews.org/archive/on-sen-barrassos-column-getting-washington-out-of-indian-country/)
-- [What Justice Scalia Said He Didn't Know About U.S. Indian Law](https://ictnews.org/archive/what-justice-scalia-said-he-didnt-know-about-us-indian-law/)
-- ['Rekindling Embers of Sovereignty that Long Ago Grew Cold'](https://ictnews.org/archive/rekindling-embers-of-sovereignty-that-long-ago-grew-cold/)
-- [On Diminishment and Reduction](https://ictnews.org/archive/on-diminishment-and-reduction/)
-- [A Misguided Plan to 'Privatize' Native Nation Lands?](https://ictnews.org/archive/misguided-plan-privatize-native-nation-lands/)
-- [On Ideas that Emerged from the Invading Mentality of the ...](https://ictnews.org/archive/ideas-emerged-invading-mentality-colonizers/)
-- [A Lame Analogy in Defense of NSA Surveillance](https://ictnews.org/archive/a-lame-analogy-in-defense-of-nsa-surveillance/)
-- [U.S. Indian Federal Law Ignores the Principles of Human Rights](https://ictnews.org/archive/us-indian-federal-law-ignores-the-principles-of-human-rights/)
-- [Book-land and Folk-land](https://ictnews.org/archive/book-land-and-folk-land/)
-- ['The Conquest': An Idea-System of Domination](https://ictnews.org/archive/the-conquest-an-idea-system-of-domination/)
-- [Ending Our Self-Deception Regarding the Term 'Indigenous'](https://ictnews.org/archive/ending-our-self-deception-regarding-the-term-indigenous/)
-- [Tecumseh: A Life Dedicated to the Liberty of Our Nations and ...](https://ictnews.org/archive/tecumseh-a-life-dedicated-to-the-liberty-of-our-nations-and-peoples/)
-- [Decolonization Begins in the Mind](https://ictnews.org/archive/decolonization-begins-in-the-mind/)
-- [Pope Francis's Careful Side-Step](https://ictnews.org/archive/pope-franciss-careful-side-step/)
-- [Disastrous Doctrine Had Papal Roots](https://ictnews.org/archive/disastrous-doctrine-had-papal-roots/)
-- [When Pope Francis Revokes the Papal Bull](https://ictnews.org/archive/when-pope-francis-revokes-the-papal-bull/)
-- [CA Legislation Proposal to Honor the Ship 'San Salvador ...](https://ictnews.org/archive/ca-legislation-proposal-honor-ship-san-salvador-holy-savior/)
-- [The San Salvador Project: Ignoring Genocide](https://ictnews.org/archive/the-san-salvador-project-ignoring-genocide/)
-- [A Book Review of 'The Medicine Valley Series: Tessa's Dance ...](https://ictnews.org/archive/a-book-review-of-the-medicine-valley-series-tessas-dance-and-signal-peak/)
-- [Pope Francis and Indigenous Peoples](https://ictnews.org/archive/pope-francis-and-indigenous-peoples/)
-- [A Legacy of Domination in Catholic Church Decrees](https://ictnews.org/archive/a-legacy-of-domination-in-catholic-church-decrees/)
-- [A Deadbolt on the 'Doors of Justice'?](https://ictnews.org/archive/a-deadbolt-on-the-doors-of-justice/)
-- [Toward Disestablishing the Doctrine of Christian Domination](https://ictnews.org/archive/toward-disestablishing-the-doctrine-of-christian-domination/)
-- [Learning to See How American Indians Are Dominated
-](https://ictnews.org/archive/learning-to-see-how-american-indians-are-dominated/)
-- [Newcomb: Bush permits desecration of Mt. Tenabo for gold ...](https://ictnews.org/archive/newcomb-bush-permits-desecration-of-mt-tenabo-for-gold-mining/)
-- [Robert A. Williams on the Doctrine of Discovery](https://ictnews.org/archive/robert-a-williams-on-the-doctrine-of-discovery/)
-- [Re-colonize, Re-evangelize, Re-conciliate, Re-dominate](https://ictnews.org/archive/re-colonize-re-evangelize-re-conciliate-re-dominate/)
-- [The Balboa Statue Controversy Continues](https://ictnews.org/archive/the-balboa-statue-controversy-continues/)- [The Dominionist Age of Trump and Our Original Free Nations](https://ictnews.org/archive/the-dominionist-age-of-trump-and-our-original-free-nations/)
-- [U.S. Federal Indian Law and Mind Control](https://ictnews.org/archive/us-federal-indian-law-and-mind-control/)
-- [The Domination System in California](https://ictnews.org/archive/the-domination-system-in-california/)
-- [A Book Review: Murder State: California's Native American ...](https://ictnews.org/archive/a-book-review-murder-state-californias-native-american-genocide-1846-1873/)
-- [Regarding Martin Luther King's Bible and President Obama](https://ictnews.org/archive/regarding-martin-luther-kings-bible-and-president-obama/)
-- [Newcomb: Above all: Kumeyaay water rights affirmed](https://ictnews.org/archive/newcomb-above-all-kumeyaay-water-rights-affirmed/)
-- [White Supremacy ('Ascendancy') Is the Basis of US Federal ...](https://ictnews.org/archive/white-supremacy-ascendancy-basis-us-federal-indian-law/)
-- [Lenape Center Honors Linguist Jim Rementer](https://ictnews.org/archive/lenape-center-honors-linguist-jim-rementer/)
-- [The History the San Diego Maritime Museum Does Not Teach](https://ictnews.org/archive/history-san-diego-maritime-museum-not-teach/)
-- [Reconciliation & Christendom's Perpetual War Against Infidels](https://ictnews.org/archive/reconciliation-christendoms-perpetual-war-infidels/)
-- [Newcomb: Above all: Kumeyaay water rights threatened](https://ictnews.org/archive/newcomb-above-all-kumeyaay-water-rights-threatened/)
-- [On Territory and Terrorism](https://ictnews.org/archive/on-territory-and-terrorism/)
-- [Toward a Native Nations Studies Curriculum in California](https://ictnews.org/archive/toward-native-nations-studies-curriculum-california/)
-- [Pedro Alvarado's 'Almost a Lust for Murder' and San Diego ...](https://ictnews.org/archive/pedro-alvarados-almost-lust-murder-san-diego-maritime-museum/)
-- [Our Lenape Ancestors Were Slaughtered At Bowling Green ...](https://ictnews.org/archive/lenape-ancestors-bowling-green-massacre-manhattan-island/)
-- [False specter of indigenous 'secession' again raised at the ...](https://ictnews.org/archive/false-specter-of-indigenous-secession-again-raised-at-the-united-nations/)
-- [A Response to Glenn Morris's Column](https://ictnews.org/archive/a-response-to-glenn-morriss-column/)
-- [Warner Springs Ranch and the Pattern of Dehumanization](https://ictnews.org/archive/warner-springs-ranch-and-the-pattern-of-dehumanization/)
-- [Honor the 4th World: An Alternative to State Domination](https://ictnews.org/archive/honor-the-4th-world-an-alternative-to-state-domination/)
-- [The Dark Side of the 'Trust' Relationship and Plenary Power](https://ictnews.org/archive/the-dark-side-of-the-trust-relationship-and-plenary-power/)
-- [Indians and Reptiles](https://ictnews.org/archive/indians-and-reptiles/)
-- [Human Sacrifice in the Bible](https://ictnews.org/archive/human-sacrifice-in-the-bible/)
-- [Fire Thunder's historic inauguration day](https://ictnews.org/archive/fire-thunders-historic-inauguration-day/)
-- ['Reconciliation' and Sylvia McAdam's Efforts to Protect the Land](https://ictnews.org/archive/reconciliation-and-sylvia-mcadams-efforts-to-protect-the-land/)
-- [On the "Columbus Ships" Sailing Up the Hudson River](https://ictnews.org/archive/columbus-ships-sailing-hudson-river/)
-- [Archaeological Claims to Kumeyaay Ancestral Remains](https://ictnews.org/archive/archaeological-claims-to-kumeyaay-ancestral-remains/)
-- [Face to Face with Pope Francis to Get the Inter Caetera Papal ...](https://ictnews.org/archive/face-to-face-with-pope-francis-to-get-the-inter-caetera-papal-bull-revoked/)
-- [Clyde Warrior and the American Indian Fight to Be Free](https://ictnews.org/archive/clyde-warrior-and-the-american-indian-fight-to-be-free/)
-- [Russell Means: In Memoriam](https://ictnews.org/archive/russell-means-in-memoriam/)
-- [Junipero Serra, Patron Saint of Oppressors](https://ictnews.org/archive/junipero-serra-patron-saint-of-oppressors/)
-- [One Nation, Under Domination, With Liberty and Justice for ...](https://ictnews.org/archive/one-nation-under-domination-with-liberty-and-justice-for-none/)
-- [Origins of the Foedus ('Federal') System](https://ictnews.org/archive/origins-of-the-foedus-federal-system/)
-- [The 1887 Dawes Act: The U.S. Theft of 90 Million Acres of ...](https://ictnews.org/archive/the-1887-dawes-act-the-us-theft-of-90-million-acres-of-indian-land/)
-- [Father Serra's Sainthood: Sanctifying a Legacy of Domination](https://ictnews.org/archive/father-serras-sainthood-sanctifying-a-legacy-of-domination/)
-- [A Dutch Massacre of Our Lenape Ancestors on Manhattan](https://ictnews.org/archive/a-dutch-massacre-of-our-lenape-ancestors-on-manhattan/)
-- [Marty Two Bulls, 'Why Can't We Go Home?'](https://ictnews.org/archive/marty-two-bulls-why-cant-we-go-home/)
-- [Reflecting on U.S. Moral Values](https://ictnews.org/archive/reflecting-on-us-moral-values/)
-- [Newcomb: The Kamehameha Schools issue in Hawaii](https://ictnews.org/archive/newcomb-the-kamehameha-schools-issue-in-hawaii/)
-- [The lesson of a Creek chief's visit to King George](https://ictnews.org/archive/the-lesson-of-a-creek-chiefs-visit-to-king-george/)
-- [Justice Clarence Thomas and U.S. v. Lara](https://ictnews.org/archive/justice-clarence-thomas-and-us-v-lara/)
-- [On the Words 'Tribe' and 'Nation'](https://ictnews.org/archive/on-the-words-tribe-and-nation/)
-- [The Oregon Standoff and the Cowboy Lawyers](https://ictnews.org/archive/the-oregon-standoff-and-the-cowboy-lawyers/)
-- [Ame Rica 'The Beautiful'](https://ictnews.org/archive/ame-rica-the-beautiful/)
-- ['Canada' and the 'United States' Are in Turtle Island](https://ictnews.org/archive/canada-and-the-united-states-are-in-turtle-island/)
-- [A Conversation with a Justice of the U.S. Supreme Court](https://ictnews.org/archive/a-conversation-with-a-justice-of-the-us-supreme-court/)
-- [Frankenstein and Native Peoples: an Expression of Irony](https://ictnews.org/archive/frankenstein-native-peoples-expression-irony/)
-- [On President Obama's Columbus Day Proclamation](https://ictnews.org/archive/on-president-obamas-columbus-day-proclamation/)
-- [Chief Justice Earl Warren: A Christian Land, Governed by ...](https://ictnews.org/archive/chief-justice-earl-warren-a-christian-land-governed-by-christian-principles/)
-- [Dr. Charles Eastman: A Dakota's Conflicted Take on Christianity](https://ictnews.org/archive/dr-charles-eastman-a-dakotas-conflicted-take-on-christianity/)
-- [A Vasco Nunez Balboa Statue in Kumeyaay Territory? 'Hell, No!'](https://ictnews.org/archive/a-vasco-nunez-balboa-statue-in-kumeyaay-territory-hell-no/)
-- [Newcomb: U.S. actions against Western Shoshone becoming ...](https://ictnews.org/archive/newcomb-us-actions-against-western-shoshone-becoming-transparent/)
-- [Expanding Christian Empire and Father Junipero Serra](https://ictnews.org/archive/expanding-christian-empire-and-father-junipero-serra/)
-- [The 'Higher Law Background' of the U.S. Constitution](https://ictnews.org/archive/the-higher-law-background-of-the-us-constitution/)
-- [Dehumanizing Actions by North Dakota Police Violate 1851 ...](https://ictnews.org/archive/dehumanizing-actions-by-north-dakota-police-violate-1851-treaty-of-fort-laramie/)
-- [Newcomb: Something missing from PBS's 'Tecumseh's Vision'](https://ictnews.org/archive/newcomb-something-missing-from-pbss-tecumsehs-vision/)
-- [The Supreme Court of Canada's 'Parasitic' Aboriginal Activities](https://ictnews.org/archive/the-supreme-court-of-canadas-parasitic-aboriginal-activities/)
-- [Cabrillo Never Performed Ridiculous Ceremony in Kumeyaay ...](https://ictnews.org/archive/cabrillo-never-performed-ridiculous-ceremony-in-kumeyaay-bay/)
-- [Dinesh D'Souza's Buffoonery](https://ictnews.org/archive/dinesh-dsouzas-buffoonery/)
-- [A Farewell Tribute to Mary Dann](https://ictnews.org/archive/a-farewell-tribute-to-mary-dann/)
-- [Footnote 1: A reminder for Indian country](https://ictnews.org/archive/footnote-1-a-reminder-for-indian-country/)
-- [Decolonize Your Mind With the Original Nations Anthem - [Video]](https://ictnews.org/archive/decolonize-your-mind-original-nations-anthem-video/)
-- [Colonization Day](https://ictnews.org/archive/colonization-day/)
-- [In The Courts of the Conqueror: A Short Review](https://ictnews.org/archive/in-the-courts-of-the-conqueror-a-short-review/)
-- [Justice Scalia and the Racist Nature of Federal Indian Law](https://ictnews.org/archive/justice-scalia-and-the-racist-nature-of-federal-indian-law/)
-- [Bush and the political winds of Katrina](https://ictnews.org/archive/bush-and-the-political-winds-of-katrina/)
-- [The star of empire](https://ictnews.org/archive/the-star-of-empire/)
-- [Spiritual terrorism' against indigenous people still occurs ...](https://ictnews.org/archive/spiritual-terrorism-against-indigenous-people-still-occurs-lutheran-pastor-says/)
-- [Andrew Jackson and the USA Global War Bill](https://ictnews.org/archive/andrew-jackson-and-the-usa-global-war-bill/)
-- [The Order of Skull and Bones and Geronimo](https://ictnews.org/archive/the-order-of-skull-and-bones-and-geronimo/)
-- [Bush's second inaugural and the Western Shoshone Nation](https://ictnews.org/archive/bushs-second-inaugural-and-the-western-shoshone-nation/)
-- [Rejecting domestic dependent nationhood](https://ictnews.org/archive/rejecting-domestic-dependent-nationhood/)
-- [On matriotism and patriotism](https://ictnews.org/archive/on-matriotism-and-patriotism/)
-- [Different circumstances](https://ictnews.org/archive/different-circumstances/)
-- [A 1993 Open Letter to Pope John Paul II](https://ictnews.org/archive/a-1993-open-letter-to-pope-john-paul-ii/)
-- [Video From the Wisdom Keepers Gathering, and a Water ...](https://ictnews.org/archive/video-from-the-wisdom-keepers-gathering-and-a-water-prayer-personified/)
-- [Fearless filmmaker seeks to heal a troubled history](https://ictnews.org/news/fearless-filmmaker-seeks-to-heal-a-troubled-history/)
-- [ndian country as enemy territory](https://ictnews.org/archive/indian-country-as-enemy-territory/)
-- [Depleted uranium: A crime against humanity and the ...](https://ictnews.org/archive/depleted-uranium-a-crime-against-humanity-and-the-environment/)
-- [Kumeyaay Ancestral Remains Held by UCSD](https://ictnews.org/archive/kumeyaay-ancestral-remains-held-by-ucsd/)
-- [Western Shoshone tribal councils oppose Reid's legislation](https://ictnews.org/archive/western-shoshone-tribal-councils-oppose-reids-legislation/)
-- [Geronimo Story Reaches Latin America and Beyond](https://ictnews.org/archive/geronimo-story-reaches-latin-america-and-beyond/)
-- [Why Papal Bull Claiming Dominion Over Non-Christian Lands ...](https://ictnews.org/archive/why-papal-bull-claiming-dominion-over-non-christian-lands-still-matters/)
-- [NPR Looks at the Christian Movement NAR and Its Rise in ...](https://ictnews.org/archive/npr-looks-at-the-christian-movement-nar-and-its-rise-in-politics/)
-- [The Court of Claims Ruling in California Indians K-344](https://ictnews.org/archive/the-court-of-claims-ruling-in-california-indians-k-344/)
-- [Activist Chase Iron Eyes to Pope Francis: Revoke the Doctrine ...](https://ictnews.org/archive/activist-chase-iron-eyes-to-pope-francis-revoke-the-doctrine-of-discovery/)
-- [A Plea to the Pope: Rescind the Papal Bulls](https://ictnews.org/archive/a-plea-to-the-pope-rescind-the-papal-bulls/)
-- [On America's pathological mentality and behavior toward ...](https://ictnews.org/archive/on-americas-pathological-mentality-and-behavior-toward-native-peoples/)
-- [Bush at Mount Rushmore: 'The Shrine of Hypocrisy'](https://ictnews.org/archive/bush-at-mount-rushmore-the-shrine-of-hypocrisy/)
-- ['George': Thumbs down](https://ictnews.org/archive/george-thumbs-down/)
-- [John Locke and Indian country](https://ictnews.org/archive/john-locke-and-indian-country/)
-- [Was the 'Discovery' of America a 'Holy and Praiseworthy ...](https://ictnews.org/archive/was-the-discovery-of-america-a-holy-and-praiseworthy-christian-mission/)
-- [All the land](https://ictnews.org/archive/all-the-land/)
-- [A Critique of Iris Engstrand's Article, 'How Cruel Were the ...](https://ictnews.org/archive/a-critique-of-iris-engstrands-article-how-cruel-were-the-spaniards/)
-- ['What every schoolboy knows' ... is often puerile and wrong](https://ictnews.org/archive/what-every-schoolboy-knows-is-often-puerile-and-wrong/)
-- [Praise for the Circle of Violence Series](https://ictnews.org/archive/praise-for-the-circle-of-violence-series/)
-- [Indigenous grandmas nearly kicked out of Vatican
-](https://ictnews.org/archive/indigenous-grandmas-nearly-kicked-out-of-vatican-2/)
-- [Looking Ahead to the United Nations Permanent Forum on ...](https://ictnews.org/archive/looking-ahead-to-the-united-nations-permanent-forum-on-indigenous-issues/)
-- [Quaker Indian Committee disavows Doctrine of Discovery ...](https://ictnews.org/archive/quaker-indian-committee-disavows-doctrine-of-discovery-affirms-declaration/)
-- [The Real Bowling Green Massacre](https://ictnews.org/archive/real-bowling-green-massacre-2/)
-- [Thomas Jefferson, Lewis & Clark, and Manifest Destiny,' by ...](https://ictnews.org/archive/may-i-suggest-native-america-discovered-and-conquered-thomas-jefferson-lewis-clark-and-manifest-destiny-by-robert-j-miller/)
-- [Reid Pushes Western Shoshone Settlement](https://ictnews.org/archive/reid-pushes-western-shoshone-settlement/)
-- ['By Their Fruit They Will Be Known': Junipero Serra as Indian ...](https://ictnews.org/archive/by-their-fruit-they-will-be-known-junipero-serra-as-indian-killer/)
-- [Felix Cohen's 'Handbook of Federal Indian Law'](https://ictnews.org/archive/felix-cohens-handbook-of-federal-indian-law-essential-for-all-libraries/)
-- [The Heart of Everything That Isn't: the Untold Story of Anti ...](https://ictnews.org/archive/the-heart-of-everything-that-isnt-the-untold-story-of-anti-indianism-in-drury-and-clavins-book-on-red-cloud/)
+- [Challenging 'the Master's' System of Ideas](https://ictnews.org/archive/challenging-masters-system-ideas/) \| [September 3, 2017](https://ictnews.org/archive/challenging-masters-system-ideas/)
 
+- [A System of Domination Awaits Every Native Child at Birth](https://ictnews.org/archive/system-domination-awaits-every-native-child-birth/) \| [September 2, 2017](https://ictnews.org/archive/system-domination-awaits-every-native-child-birth/)
+
+- [Why 'Conquest' Is Considered Acceptable and 'Domination' Is Not](https://ictnews.org/archive/conquest-considered-acceptable-domination-not/) \| [August 31, 2017](https://ictnews.org/archive/conquest-considered-acceptable-domination-not/)
+
+- [A Plaque Honoring Spanish Colonization in the Kumeyaay Nation Territory](https://ictnews.org/archive/plaque-honoring-spanish-colonization-kumeyaay-nation-territory/) \| [August 21, 2017](https://ictnews.org/archive/plaque-honoring-spanish-colonization-kumeyaay-nation-territory/)
+
+- [On the "Columbus Ships" Sailing Up the Hudson River](https://ictnews.org/archive/columbus-ships-sailing-hudson-river/) \| [August 5, 2017](https://ictnews.org/archive/columbus-ships-sailing-hudson-river/)
+
+- [On Ideas that Emerged from the Invading Mentality of the Colonizers](https://ictnews.org/archive/ideas-emerged-invading-mentality-colonizers/) \| [August 4, 2017](https://ictnews.org/archive/ideas-emerged-invading-mentality-colonizers/)
+
+- [Toward a Native Nations Studies Curriculum in California](https://ictnews.org/archive/toward-native-nations-studies-curriculum-california/) \| [July 26, 2017](https://ictnews.org/archive/toward-native-nations-studies-curriculum-california/)
+
+- [The Invasive and Imposed Constructs of the European Mind](https://ictnews.org/archive/invasive-imposed-constructs-european-mind/) \| [July 22, 2017](https://ictnews.org/archive/invasive-imposed-constructs-european-mind/)
+
+- [Disallowing a 'Heathen' Right of Domination](https://ictnews.org/archive/disallowing-heathen-right-domination/) \| [July 19, 2017](https://ictnews.org/archive/disallowing-heathen-right-domination/)
+
+- [Language Games by the United States](https://ictnews.org/archive/language-games-united-states/)
+ \| [July 5, 2017](https://ictnews.org/archive/language-games-united-states/)
+
+- [The Mind of the White Man is the Origin of US Federal Indian 'Law'](https://ictnews.org/archive/mind-white-man-origin-us-federal-indian-law/) \| [June 28, 2017](https://ictnews.org/archive/mind-white-man-origin-us-federal-indian-law/)
+
+- [Words, Reality, and the American Empire in the Age of Trump](https://ictnews.org/archive/words-reality-american-empire-age-trump/) \| [June 18, 2017](https://ictnews.org/archive/words-reality-american-empire-age-trump/)
+
+- [Johnson v. M'Intosh: A Paper Monument of White Christian Supremacy](https://ictnews.org/archive/johnson-v-mintosh-paper-monument-white-christian-supremacy/) \| [May 23, 2017](https://ictnews.org/archive/johnson-v-mintosh-paper-monument-white-christian-supremacy/)
+
+- [America As A Domination](https://ictnews.org/archive/america-as-a-domination/) \| [May 19, 2017](https://ictnews.org/archive/america-as-a-domination/)
+
+- ['Generally Scalping the Indians,' I Might Add](https://ictnews.org/archive/generally-scalping-indians-might-add/) \| [May 9, 2017](https://ictnews.org/archive/generally-scalping-indians-might-add/)
+
+- [Paul Gilk's Picking Fights with the Gods: A Book Review](https://ictnews.org/archive/paul-gilks-picking-fights-gods-book-review/) \| [April 27, 2017](https://ictnews.org/archive/paul-gilks-picking-fights-gods-book-review/)
+
+- [CA Legislation Proposal to Honor the Ship 'San Salvador' ('Holy Savior')](https://ictnews.org/archive/ca-legislation-proposal-honor-ship-san-salvador-holy-savior/) \| [April 21, 2017](https://ictnews.org/archive/ca-legislation-proposal-honor-ship-san-salvador-holy-savior/)
+
+- ['The Indians of California' Through the Eyes of an Irishman in the mid-1800s](https://ictnews.org/archive/indians-california-eyes-irishman-mid-1800s/) \| [April 12, 2017](https://ictnews.org/archive/indians-california-eyes-irishman-mid-1800s/)
+
+- [What does it mean 'to Indigenize'?](https://ictnews.org/archive/what-does-it-mean-to-indigenize/)
+ \| [April 10, 2017](https://ictnews.org/archive/what-does-it-mean-to-indigenize/)
+
+- [Indigenous Sovereignty and the Political Subordination of Our Nations](https://ictnews.org/archive/indigenous-sovereignty-political-subordination-nations/) \| [March 27, 2017](https://ictnews.org/archive/indigenous-sovereignty-political-subordination-nations/)
+
+- [The Vatican and Its Legacy of Domination](https://ictnews.org/archive/vatican-legacy-domination/)
+ \| [March 20, 2017](https://ictnews.org/archive/vatican-legacy-domination/)
+
+- [Australia's Response to the Doctrine of Discovery](https://ictnews.org/archive/australias-response-doctrine-discovery/) \| [March 17, 2017](https://ictnews.org/archive/australias-response-doctrine-discovery/)
+
+- [NoDAPL! Once Again the Chosen People/Promised Land Model Still Being Used Against the Oceti Sakowin Nation](https://ictnews.org/archive/nodapl-chosen-peoplepromised-land-model-prevails-oceti-sakowin-nation/) \| [February 16, 2017](https://ictnews.org/archive/nodapl-chosen-peoplepromised-land-model-prevails-oceti-sakowin-nation/)
+
+- [Frankenstein and Native Peoples: an Expression of Irony](https://ictnews.org/archive/frankenstein-native-peoples-expression-irony/) \| [February 14, 2017](https://ictnews.org/archive/frankenstein-native-peoples-expression-irony/)
+
+- [Pedro Alvarado's 'Almost a Lust for Murder' and San Diego Maritime Museum](https://ictnews.org/archive/pedro-alvarados-almost-lust-murder-san-diego-maritime-museum/) \| [February 10, 2017](https://ictnews.org/archive/pedro-alvarados-almost-lust-murder-san-diego-maritime-museum/)
+
+- [Our Lenape Ancestors Were Slaughtered At Bowling Green Massacre](https://ictnews.org/archive/lenape-ancestors-bowling-green-massacre-manhattan-island/) \| [February 6, 2017](https://ictnews.org/archive/lenape-ancestors-bowling-green-massacre-manhattan-island/)
+
+- [Domination: The Hidden Code Used Against Our Nations](https://ictnews.org/archive/domination-hidden-code-used-nations/) \| [January 24, 2017](https://ictnews.org/archive/domination-hidden-code-used-nations/)
+
+- [The History the San Diego Maritime Museum Does Not Teach](https://ictnews.org/archive/history-san-diego-maritime-museum-not-teach/) \| [January 20, 2017](https://ictnews.org/archive/history-san-diego-maritime-museum-not-teach/)
+
+- [Dawes Allotment Act: It's Been 130 Years](https://ictnews.org/archive/130th-anniversary-general-allotment-act/) \| [January 13, 2017](https://ictnews.org/archive/130th-anniversary-general-allotment-act/)
+
+- [On Challenging the Ideas and Arguments of the Invaders](https://ictnews.org/archive/challenging-ideas-arguments-invaders/) \| [January 11, 2017](https://ictnews.org/archive/challenging-ideas-arguments-invaders/)
+
+- [Northwest Ordinance and North Dakota's Brutal Actions at Standing Rock](https://ictnews.org/archive/northwest-ordinance-north-dakotas-brutal-standing-rock/) \| [December 29, 2016](https://ictnews.org/archive/northwest-ordinance-north-dakotas-brutal-standing-rock/)
+
+- [A Misguided Plan to 'Privatize' Native Nation Lands?](https://ictnews.org/archive/misguided-plan-privatize-native-nation-lands/) \| [December 26, 2016](https://ictnews.org/archive/misguided-plan-privatize-native-nation-lands/)
+
+- [U.S. Oppression: Veterans 'Beg Forgiveness' at Standing Rock](https://ictnews.org/archive/us-oppression-veterans-beg-forgiveness-standing-rock/) \| [December 16, 2016](https://ictnews.org/archive/us-oppression-veterans-beg-forgiveness-standing-rock/)
+
+- [What You Won't See in Mainstream News About Standing Rock](https://ictnews.org/archive/wont-see-mainstream-news-standing-rock/) \| [December 12, 2016](https://ictnews.org/archive/wont-see-mainstream-news-standing-rock/)
+
+- [North Dakota's Brutal Actions Over DAPL](https://ictnews.org/archive/utmost-good-faith-and-north-dakotas-brutal-actions-standing-rock/) \| [December 8, 2016](https://ictnews.org/archive/utmost-good-faith-and-north-dakotas-brutal-actions-standing-rock/)
+
+- [Decolonize Your Mind With the Original Nations Anthem [Video]](https://ictnews.org/archive/decolonize-your-mind-original-nations-anthem-video/) \| [December 5, 2016](https://ictnews.org/archive/decolonize-your-mind-original-nations-anthem-video/)
+
+- [Decolonization Begins in the Mind](https://ictnews.org/archive/decolonization-begins-in-the-mind/) \| [December 1, 2016](https://ictnews.org/archive/decolonization-begins-in-the-mind/)
+
+- [Reconciliation & Christendom's Perpetual War Against Infidels](https://ictnews.org/archive/reconciliation-christendoms-perpetual-war-infidels/) \| [August 1, 2016](https://ictnews.org/archive/reconciliation-christendoms-perpetual-war-infidels/)
+
+- [Walking Backward in the International Arena](https://ictnews.org/archive/walking-backward-in-the-international-arena/) \| [June 5, 2013](https://ictnews.org/archive/walking-backward-in-the-international-arena/)
+
+- [On Indian Nationhood: Steven Newcomb Responds to Steve Russell's March 20 Column](https://ictnews.org/archive/on-indian-nationhood-steven-newcomb-responds-to-steve-russells-march-20-column/) \| [March 23, 2012](https://ictnews.org/archive/on-indian-nationhood-steven-newcomb-responds-to-steve-russells-march-20-column/)
+
+- [An Open Letter to 'Occupy Wall Street': A Shawnee-Lenape Perspective](https://ictnews.org/archive/an-open-letter-to-occupy-wall-street-a-shawnee-lenape-perspective/) \| [October 13, 2011](https://ictnews.org/archive/an-open-letter-to-occupy-wall-street-a-shawnee-lenape-perspective/)
+
+- ['Canada' and the 'United States' Are in Turtle Island](https://ictnews.org/archive/canada-and-the-united-states-are-in-turtle-island/) \| [September 30, 2011](https://ictnews.org/archive/canada-and-the-united-states-are-in-turtle-island/)
+
+- [Government: An Expression of Domination](https://ictnews.org/archive/government-an-expression-of-domination/) \| [September 11, 2011](https://ictnews.org/archive/government-an-expression-of-domination/)
+
+- [Ame Rica 'The Beautiful'](https://ictnews.org/archive/ame-rica-the-beautiful/) \| [August 27, 2011](https://ictnews.org/archive/ame-rica-the-beautiful/)
+
+- [On Federal Indian Domination](https://ictnews.org/archive/on-federal-indian-domination/) \| [July 19, 2011](https://ictnews.org/archive/on-federal-indian-domination/)
+
+- [A Conversation with a Justice of the U.S. Supreme Court](https://ictnews.org/archive/a-conversation-with-a-justice-of-the-us-supreme-court/) \| [June 24, 2011](https://ictnews.org/archive/a-conversation-with-a-justice-of-the-us-supreme-court/)
+
+- [A Critique of a Doctrine of Reconciliation](https://ictnews.org/archive/a-critique-of-a-doctrine-of-reconciliation/) \| [June 16, 2011](https://ictnews.org/archive/a-critique-of-a-doctrine-of-reconciliation/)
+
+- [Andrew Jackson and the USA Global War Bill](https://ictnews.org/archive/andrew-jackson-and-the-usa-global-war-bill/) \| [June 3, 2011](https://ictnews.org/archive/andrew-jackson-and-the-usa-global-war-bill/)
+
+- [Geronimo Again? The Indian Wars Continue Ad Nauseam](https://ictnews.org/archive/geronimo-again-the-indian-wars-continue-ad-nauseam/) \| [May 4, 2011](https://ictnews.org/archive/geronimo-again-the-indian-wars-continue-ad-nauseam/)
+
+- [International Law and the Principle of Free Consent](https://ictnews.org/archive/international-law-and-the-principle-of-free-consent/) \| [June 1, 2006](https://ictnews.org/archive/international-law-and-the-principle-of-free-consent/)
+
+- [Water is Life: Sacred and Precious](https://ictnews.org/archive/water-is-life-sacred-and-precious/) \| [May 11, 2006](https://ictnews.org/archive/water-is-life-sacred-and-precious/)
+
+- [Dark clouds: Destroying democracy to save it](https://ictnews.org/archive/dark-clouds-destroying-democracy-to-save-it/) \| [February 23, 2006](https://ictnews.org/archive/dark-clouds-destroying-democracy-to-save-it/)
+
+- [False specter of indigenous 'secession' again raised at the United Nations](https://ictnews.org/archive/false-specter-of-indigenous-secession-again-raised-at-the-united-nations/) \| [December 29, 2005](https://ictnews.org/archive/false-specter-of-indigenous-secession-again-raised-at-the-united-nations/)
+
+- [John Locke and Indian country](https://ictnews.org/archive/john-locke-and-indian-country/) \| [November 3, 2005](https://ictnews.org/archive/john-locke-and-indian-country/)
+
+- [Bush and the political winds of Katrina](https://ictnews.org/archive/bush-and-the-political-winds-of-katrina/) \| [October 13, 2005](https://ictnews.org/archive/bush-and-the-political-winds-of-katrina/)
+
+- [The star of empire](https://ictnews.org/archive/the-star-of-empire/) \| [September 15, 2005](https://ictnews.org/archive/the-star-of-empire/)
+
+- [Depleted uranium: A crime against humanity and the environment](https://ictnews.org/archive/depleted-uranium-a-crime-against-humanity-and-the-environment/) \| [September 15, 2005](https://ictnews.org/archive/depleted-uranium-a-crime-against-humanity-and-the-environment/)
+
+- [The lesson of a Creek chief's visit to King George](https://ictnews.org/archive/the-lesson-of-a-creek-chiefs-visit-to-king-george/) \| [August 11, 2005](https://ictnews.org/archive/the-lesson-of-a-creek-chiefs-visit-to-king-george/)
+
+- [On matriotism and patriotism](https://ictnews.org/archive/on-matriotism-and-patriotism/) \| [May 5, 2005](https://ictnews.org/archive/on-matriotism-and-patriotism/)
+
+- [Bush's second inaugural and the Western Shoshone Nation](https://ictnews.org/archive/bushs-second-inaugural-and-the-western-shoshone-nation/) \| [February 3, 2005](https://ictnews.org/archive/bushs-second-inaugural-and-the-western-shoshone-nation/)
+
+- [On the Words 'Tribe' and 'Nation'](https://ictnews.org/archive/on-the-words-tribe-and-nation/) \| [December 8, 2004](https://ictnews.org/archive/on-the-words-tribe-and-nation/)
+
+- [Indian country as enemy territory](https://ictnews.org/archive/indian-country-as-enemy-territory/) \| [October 7, 2004](https://ictnews.org/archive/indian-country-as-enemy-territory/)
+
+- [Remembering our past will guide our future](https://ictnews.org/archive/remembering-our-past-will-guide-our-future/) \| [September 22, 2004](https://ictnews.org/archive/remembering-our-past-will-guide-our-future/)
+
+- [On America's pathological mentality and behavior toward Native peoples](https://ictnews.org/archive/on-americas-pathological-mentality-and-behavior-toward-native-peoples/) \| [September 15, 2004](https://ictnews.org/archive/on-americas-pathological-mentality-and-behavior-toward-native-peoples/)
+
+- [Bush at Mount Rushmore: 'The Shrine of Hypocrisy'](https://ictnews.org/archive/bush-at-mount-rushmore-the-shrine-of-hypocrisy/) \| [August 12, 2004](https://ictnews.org/archive/bush-at-mount-rushmore-the-shrine-of-hypocrisy/)
+
+- [The NLRB's Arrogation of Authority over Indian Nations](https://ictnews.org/archive/the-nlrbs-arrogation-of-authority-over-indian-nations/) \| [June 23, 2004](https://ictnews.org/archive/the-nlrbs-arrogation-of-authority-over-indian-nations/)
+
+- [On the Ability of Words to Empower and Disempower](https://ictnews.org/archive/on-the-ability-of-words-to-empower-and-disempower/) \| [June 17, 2004](https://ictnews.org/archive/on-the-ability-of-words-to-empower-and-disempower/)
+
+- [Justice Clarence Thomas and U.S. v. Lara](https://ictnews.org/archive/justice-clarence-thomas-and-us-v-lara/) \| [May 31, 2004](https://ictnews.org/archive/justice-clarence-thomas-and-us-v-lara/)
+
+- [Reflecting on U.S. Moral Values](https://ictnews.org/archive/reflecting-on-us-moral-values/) \| [May 26, 2004](https://ictnews.org/archive/reflecting-on-us-moral-values/)
+
+- [On Attorneys, Indian Advocacy and Nevada v. Hicks](https://ictnews.org/archive/on-attorneys-indian-advocacy-and-nevada-v-hicks/) \| [April 28, 2004](https://ictnews.org/archive/on-attorneys-indian-advocacy-and-nevada-v-hicks/)
+
+- [Contradictions Inherent in U.S. v. Lara](https://ictnews.org/archive/contradictions-inherent-in-us-v-lara/) \| [April 7, 2004](https://ictnews.org/archive/contradictions-inherent-in-us-v-lara/)
+
+- [Rejecting domestic dependent nationhood](https://ictnews.org/archive/rejecting-domestic-dependent-nationhood/) \| [April 1, 2004](https://ictnews.org/archive/rejecting-domestic-dependent-nationhood/)
+
+- [Western Shoshone crisis: Is the U.S. a nation of arbitrary laws?](https://ictnews.org/archive/western-shoshone-crisis-is-the-us-a-nation-of-arbitrary-laws/) \| [March 10, 2003](https://ictnews.org/archive/western-shoshone-crisis-is-the-us-a-nation-of-arbitrary-laws/)
+
+- [The colonial freedom of federal Indian law](https://ictnews.org/archive/the-colonial-freedom-of-federal-indian-law/) \| [February 26, 2003](https://ictnews.org/archive/the-colonial-freedom-of-federal-indian-law/)
+
+- [Government goofed in Western Shoshone land grab](https://ictnews.org/archive/government-goofed-in-western-shoshone-land-grab/) \| [January 12, 2003](https://ictnews.org/archive/government-goofed-in-western-shoshone-land-grab/)
+
+- [Deception and the Indian Claims Commission](https://ictnews.org/archive/deception-and-the-indian-claims-commission/) \| [December 10, 2002](https://ictnews.org/archive/deception-and-the-indian-claims-commission/)
+
+- [Western Shoshone tribal councils oppose Reid's legislation](https://ictnews.org/archive/western-shoshone-tribal-councils-oppose-reids-legislation/) \| [November 7, 2002](https://ictnews.org/archive/western-shoshone-tribal-councils-oppose-reids-legislation/)
+
+- [The Western Shoshone and U.S. organic law](https://ictnews.org/archive/the-western-shoshone-and-us-organic-law/) \| [October 18, 2002](https://ictnews.org/archive/the-western-shoshone-and-us-organic-law/)
