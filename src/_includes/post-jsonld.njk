@@ -1,0 +1,36 @@
+{%- set postData = post.data -%}
+{%- set postUrl = site.url + post.url -%}
+{%- set postTitle = postData.title or site.title -%}
+{%- set postDescription = postData.description or postData.summary or site.description -%}
+{%- set postImage = postData.image or site.image -%}
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": {{ (postUrl + "#metadata") | dump | safe }},
+  "name": {{ postTitle | dump | safe }},
+  "headline": {{ postTitle | dump | safe }},
+  "description": {{ postDescription | dump | safe }},
+  "url": {{ postUrl | dump | safe }},
+  "identifier": {{ postUrl | dump | safe }},
+  "inLanguage": "en",
+  "datePublished": {{ post.date | htmlDateString | dump | safe }},
+  "dateModified": {{ (postData.updated or postData.modified or post.date) | htmlDateString | dump | safe }},
+  "author": {
+    "@type": "Person",
+    "name": {{ site.author | dump | safe }},
+    "url": {{ site.url | dump | safe }}
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": {{ site.author | dump | safe }},
+    "url": {{ site.url | dump | safe }}
+  },
+  "isPartOf": {
+    "@type": "Blog",
+    "@id": {{ (site.url + "/#blog") | dump | safe }},
+    "name": {{ site.title | dump | safe }},
+    "url": {{ site.url | dump | safe }}
+  }{% if postImage %},
+  "image": {{ ((site.url + postImage) if "/" == postImage[0] else postImage) | dump | safe }}{% endif %}{% if postData.citations %},
+  "citation": {{ postData.citations | dump | safe }}{% endif %}
+}
